@@ -54,7 +54,7 @@ For Software:
 
 ### Project Demo
 # Video
-Cant uploa on github i will Upload seperately
+Cant upload on readme file i will Upload seperately
 
 ## Team Contributions
 - Reuben Sam Philip: [Fully done by myself
