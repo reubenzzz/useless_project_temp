@@ -54,7 +54,7 @@ For Software:
 
 ### Project Demo
 # Video
-Cant upload on readme file i will Upload seperately
+https://drive.google.com/drive/folders/19Dzj1_hkYD6A933O4Gjvv-EEu8BNzGlV
 
 ## Team Contributions
 - Reuben Sam Philip: [Fully done by myself
